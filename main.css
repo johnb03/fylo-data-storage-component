@@ -39,8 +39,7 @@ body {
   min-width: 250px;
   height: 200px;
   padding: 3rem;
-  /*margin-bottom: 1rem;
-  */display: flex;
+  display: flex;
   flex-direction: column;
   background: var(--Dark-Blue);
   border-radius: 5% 0% 5% 5%;
